@@ -1,24 +1,31 @@
-## Hi there 👋
-Welcome! I'm Julio Reyes.
+
+![JulioneQA](https://github.com/user-attachments/assets/034023d6-b524-465e-ac98-7a814705731
+
+## Welcome! I'm Julio Reyes. 👋
+
+ <summary><h2 style="display: inline-block">Hola, soy Julio ¡Bienvenido! 👋</h2></summary>
+
 
 About me:
 
-My attraction to the tech world stems from my experience in quality control and assurance.
+-My attraction to the tech world stems from my experience in quality control and assurance.
+-I am currently learning software testing fundamentals and automated testing with Python & Pycharm.
+-I understand the guarantee and confidence that quality provides for products, and that's why I seek to contribute to any organization that gives me the opportunity, by providing rigorous testing.
 
-I am currently learning software testing fundamentals and automated testing with Python.
 
-I understand the guarantee and confidence that quality provides for products, and that's why I seek to contribute to any organization that gives me the opportunity, by providing rigorous testing.
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **JulioneQA/JulioneQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
