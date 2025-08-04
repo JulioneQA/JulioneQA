@@ -13,9 +13,9 @@
 
 About me:
 
--My attraction to the tech world stems from my experience in quality control and assurance.🏆
--I am currently learning software testing fundamentals and automated testing with tools as CSS, python, pycharm, selenium.🔍🐛
--I understand the guarantee and confidence that quality provides for products, and that's why I seek to contribute to any organization that gives me the opportunity, by providing rigorous testing.📝💯
+- 🏆 My attraction to the tech world stems from my experience in quality control and assurance.
+- 🔍🐛 I am currently learning software testing fundamentals and automated testing with tools as CSS, python, pycharm, selenium.
+- 📝💯 I understand the guarantee and confidence that quality provides for products, and that's why I seek to contribute to any organization that gives me the opportunity, by providing rigorous testing.
 
 
 <!--h1 without bottom border-->
@@ -41,12 +41,6 @@ About me:
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-cesar-reyes-triana/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-<br></br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Andrea-Pozas&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<br></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Pozas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <!--
 **JulioneQA/JulioneQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
