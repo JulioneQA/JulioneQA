@@ -1,8 +1,8 @@
 
-![JulioneQA](https://github.com/user-attachments/assets/034023d6-b524-465e-ac98-7a814705731
-
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
  <summary><h2 style="display: inline-block">Hola, soy Julio ¡Bienvenido! 👋</h2></summary>
-
 
 About me:
 
