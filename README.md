@@ -1,8 +1,6 @@
 
 ![JulioneQA](https://github.com/user-attachments/assets/034023d6-b524-465e-ac98-7a814705731
 
-## Welcome! I'm Julio Reyes. 👋
-
  <summary><h2 style="display: inline-block">Hola, soy Julio ¡Bienvenido! 👋</h2></summary>
 
 
