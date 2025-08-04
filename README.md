@@ -1,4 +1,4 @@
-![Julio C. Reyes Tr.](Banner QA ENGINNER JR. 2.png)
+![Julio C. Reyes Tr.](https://raw.githubusercontent.com/JulioneQA/JulioneQA/abfd1581475ecd2cbabd8a6b9be4eed3288c9d35/Banner%20QA%20ENGINNER%20JR.%202.png)
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
