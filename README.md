@@ -1,5 +1,13 @@
 ## Hi there 👋
+Welcome! I'm Julio Reyes.
 
+About me:
+
+My attraction to the tech world stems from my experience in quality control and assurance.
+
+I am currently learning software testing fundamentals and automated testing with Python.
+
+I understand the guarantee and confidence that quality provides for products, and that's why I seek to contribute to any organization that gives me the opportunity, by providing rigorous testing.
 <!--
 **JulioneQA/JulioneQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
