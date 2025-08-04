@@ -20,7 +20,7 @@ About me:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías👩🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologies👩🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -34,16 +34,14 @@ About me:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conectemos!🧩</h2></summary>
+    <summary><h2 style="display: inline-block">let´s keep in touch🧩</h2></summary>
   </ul>
 </div>
 
-
-
-
-
-
-
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
 
 
 
