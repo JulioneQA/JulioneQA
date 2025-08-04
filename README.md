@@ -1,3 +1,4 @@
+![Julio C. Reyes Tr.](Banner QA ENGINNER JR. 2.png)
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
