@@ -1,4 +1,4 @@
-  <ul align="center">
+<ul align="center">
 
 ![Julio C. Reyes Tr.](https://raw.githubusercontent.com/JulioneQA/JulioneQA/abfd1581475ecd2cbabd8a6b9be4eed3288c9d35/Banner%20QA%20ENGINNER%20JR.%202.png)
 
@@ -26,7 +26,7 @@ About me:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,gmail,discord,postgres,github,html,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=gmail,discord,postgres,github,html,postman"/>
   </a>
 </p>
 
