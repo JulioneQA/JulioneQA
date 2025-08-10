@@ -45,9 +45,6 @@ About me:
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-cesar-reyes-triana/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
-<!--
-**JulioneQA/JulioneQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ***
 
   <summary><h2 style="display: inline-block">Hola¡bienvenido! Soy Julio César 👋</h2></summary>
@@ -64,7 +61,8 @@ About me:
 
 
 
-
+<!--
+**JulioneQA/JulioneQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
