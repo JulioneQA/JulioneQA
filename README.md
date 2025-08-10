@@ -7,7 +7,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Hello¡Welcome! i´m Julio César 👋</h2></summary>
+    <summary><h2 style="display: inline-block">Hello¡Welcome!i´m Julio César 👋</h2></summary>
   </ul>
 </div>
 
@@ -47,4 +47,24 @@ About me:
 
 <!--
 **JulioneQA/JulioneQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+***
+
+  <summary><h2 style="display: inline-block">Hola¡bienvenido! Soy Julio César 👋</h2></summary>
+  </ul>
+</div>
+
+# Acerca de mi:
+
+- 🏆 Mi atracción por el muindo de la tecnología me ha llevado a formarme en aseguramiento de calidad de software.
+- 🔍🐛 Actualmente estoy aprendiendo mas sobre las pruebas de software y automatización de pruebas con herramientas como Selenium, CCS, Python, Pycharm y otros!
+- 📝💯 Se de la garantia y confianza que dan la calidad en los productos, es por ello que busco contribuir a las organizaciones que me brinden la oportunidad, aportando pruebas rigurosas y exhaustivas para mejorar la experiencia del usuario.
+
+
+
+
+
+
+
+
 
