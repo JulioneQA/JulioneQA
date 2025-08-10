@@ -1,6 +1,6 @@
 <ul align="center">
 
-# ![Julio C. Reyes Tr.](https://raw.githubusercontent.com/JulioneQA/JulioneQA/abfd1581475ecd2cbabd8a6b9be4eed3288c9d35/Banner%20QA%20ENGINNER%20JR.%202.png)
+### ![Julio C. Reyes Tr.](https://raw.githubusercontent.com/JulioneQA/JulioneQA/abfd1581475ecd2cbabd8a6b9be4eed3288c9d35/Banner%20QA%20ENGINNER%20JR.%202.png)
 
   </ul>
 
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!-- Connect with me -->
@@ -46,7 +46,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-cesar-reyes-triana/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
-***
 <summary><h2 style="display: inline-block">Hola! ¡bienvenido!Soy Julio César 👋</h2></summary>
   </ul>
 </div>
@@ -70,7 +69,7 @@
   </a>
 </p>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!-- Connect with me -->
@@ -83,8 +82,6 @@
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-cesar-reyes-triana/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-***
 
 <!--
 **JulioneQA/JulioneQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
