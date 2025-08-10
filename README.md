@@ -39,7 +39,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">let´s keep in touch🤝</h2></summary>
+    <summary><h2 style="display: inline-block">let´s keep in touch!🤝</h2></summary>
     
    </ul>
 </div>
@@ -77,7 +77,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">conectemos!🤝</h2></summary>
+    <summary><h2 style="display: inline-block">¡Conectemos!🤝</h2></summary>
   
    </ul>
 </div>
