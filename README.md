@@ -53,7 +53,7 @@ About me👨‍💼:
 
 # Acerca de mi👨‍💼:
 
-- 🏆 Mi atracción por el muindo de la tecnología me ha llevado a formarme en aseguramiento de calidad de software.
+- 🏆 Mi atracción por el mundo de la tecnología me ha llevado a formarme en aseguramiento de calidad de software.
 - 🔍🐛 Actualmente estoy aprendiendo mas sobre las pruebas de software y automatización de pruebas con herramientas como Selenium, CCS, Python, Pycharm y otros!
 - 📝💯 Se de la garantia y confianza que dan la calidad en los productos, es por ello que busco contribuir a las organizaciones que me brinden la oportunidad, aportando pruebas rigurosas y exhaustivas para mejorar la experiencia del usuario.
 
