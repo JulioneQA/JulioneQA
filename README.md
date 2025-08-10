@@ -1,6 +1,6 @@
 <ul align="center">
 
-![Julio C. Reyes Tr.](https://raw.githubusercontent.com/JulioneQA/JulioneQA/abfd1581475ecd2cbabd8a6b9be4eed3288c9d35/Banner%20QA%20ENGINNER%20JR.%202.png)
+# ![Julio C. Reyes Tr.](https://raw.githubusercontent.com/JulioneQA/JulioneQA/abfd1581475ecd2cbabd8a6b9be4eed3288c9d35/Banner%20QA%20ENGINNER%20JR.%202.png)
 
   </ul>
 
@@ -11,7 +11,7 @@
   </ul>
 </div>
 
-About me👨‍💼:
+## About me👨‍💼:
 
 - 🏆 My attraction to the tech world stems from my experience in quality control and assurance.
 - 🔍🐛 I am currently learning software testing fundamentals and automated testing with tools as CSS, python, pycharm, selenium and others!.
@@ -31,7 +31,7 @@ About me👨‍💼:
   </a>
 </p>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!-- Connect with me -->
@@ -51,7 +51,7 @@ About me👨‍💼:
   </ul>
 </div>
 
-# Acerca de mi👨‍💼:
+## Acerca de mi👨‍💼:
 
 - 🏆 Mi atracción por el mundo de la tecnología me ha llevado a formarme en aseguramiento de calidad de software.
 - 🔍🐛 Actualmente estoy aprendiendo mas sobre las pruebas de software y automatización de pruebas con herramientas como Selenium, CCS, Python, Pycharm y otros!
@@ -70,7 +70,7 @@ About me👨‍💼:
   </a>
 </p>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!-- Connect with me -->
