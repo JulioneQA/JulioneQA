@@ -47,7 +47,7 @@
 
 ***
 
-  <summary><h2 style="display: inline-block">Hola ¡bienvenido!Soy Julio César 👋</h2></summary>
+<summary><h2 style="display: inline-block">Hola ¡bienvenido!Soy Julio César 👋</h2></summary>
   </ul>
 </div>
 
